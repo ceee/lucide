@@ -11,3 +11,8 @@ stats
 *.log
 packages/**/src/icons/*.js
 packages/**/src/icons/*.ts
+.pnp.js
+.yarn
+.yarn*
+*.lock
+package-lock.json
